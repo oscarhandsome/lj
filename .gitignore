@@ -1,4 +1,5 @@
 *.log
+npm-debug.log*
 
 node_modules
 
@@ -9,6 +10,7 @@ node_modules
 *~
 
 *.idea
+.idea
 
 dist
 public/dist
