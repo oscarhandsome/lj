@@ -12,3 +12,6 @@ function say({subject, verb, object}) {
 for (let s of sentences) {
 	say(s);
 }
+
+let room1 = "conference_room_1";
+console.log(room1, 'hello world!');

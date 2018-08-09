@@ -1,7 +1,7 @@
 {
   "name": "lj.loc",
   "version": "1.0.0",
-  "description": "test",
+  "description": "test from JS - Braun book!",
   "main": "index.html",
   "dependencies": {
     "underscore": "^1.9.1"
